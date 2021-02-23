@@ -21,7 +21,7 @@ Works for SVG, PNG, and JPEG
      - `raw.githubusercontent.com/YourUserAccount/YourProject/YourBranch/DirectoryPath/svgdemo1.svg?sanitize=true&raw=true`
 
 
-Working example code displayed below after used:
+Working example code displayed below after used-:
 
 **raw.githubusercontent.com**:
 
